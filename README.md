@@ -7,7 +7,7 @@
 - :eyes: I’m looking to collaborate on projects as voluntarie to learnig more how to work with this power tool (Github);
 - :link: How to reach me by LinkedIn https://www.linkedin.com/in/jeremiah-silva-b29aba213/ .
 <a href="https://www.linkedin.com/in/jeremiah-silva-b29aba213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<h1>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h1>
+<h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h1>
 - :link: My Portfolio: https://jeremiah-portfolio.vercel.app/
 - :link: E-mail: jeremiah.ca9@gmail.com
 <a href = "mailto:jeremiah.ca9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
