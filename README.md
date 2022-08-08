@@ -5,9 +5,9 @@
 - :file_folder: Experience with databases such as Mongo MySQL, MS.SQL, etc.;
 - :arrow_forward: Acting as a Full Stack Developer within an agile development team to find creative solutions for the challenges and improve on existing solutions;
 - :eyes: I’m looking to collaborate on projects as voluntarie to learnig more how to work with this power tool (Github);
-- :link: How to reach me by LinkedIn https://www.linkedin.com/in/jeremiah-silva-b29aba213/ .<br>
+- :link: How to reach me by LinkedIn https://www.linkedin.com/in/jeremiah-silva-b29aba213/ .<br></br>
 <a href="https://www.linkedin.com/in/jeremiah-silva-b29aba213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-- :link: E-mail: jeremiah.ca9@gmail.com
+- :link: E-mail: jeremiah.ca9@gmail.com <br></br>
 <a href = "mailto:jeremiah.ca9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - :link: My Portfolio: https://jeremiah-portfolio.vercel.app/
 <h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2>
