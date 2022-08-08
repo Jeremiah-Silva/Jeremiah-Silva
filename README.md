@@ -18,6 +18,9 @@
 
 <h1>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h1>
 
+![Jere](https://user-images.githubusercontent.com/108309798/183326549-3aa58c91-1783-4763-ad2f-36007915bf11.svg)
+
+
 <!---
 Jeremiah-Silva/Jeremiah-Silva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
