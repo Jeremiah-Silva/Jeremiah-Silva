@@ -10,7 +10,7 @@
 - :link: E-mail: jeremiah.ca9@gmail.com
 <a href = "mailto:jeremiah.ca9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 - :link: My Portfolio: https://jeremiah-portfolio.vercel.app/
-<h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h1>
+<h2>:blue_car: <a href="https://jeremiah-portfolio.vercel.app/"> Portfolio </a></h2>
 
 
 
