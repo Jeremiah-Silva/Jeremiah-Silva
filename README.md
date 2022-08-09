@@ -14,7 +14,7 @@
 - :link: My Portfolio: https://jeremiah-portfolio.vercel.app/<br></br>
 <a href="https://jeremiah-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
 
-teste 
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" target="_blank"></a><br></br>
 
 
