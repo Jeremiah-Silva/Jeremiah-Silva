@@ -12,7 +12,7 @@
 <a href = "mailto:jeremiah.ca9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><b></b>
 
 - :link: My Portfolio: https://jeremiah-portfolio.net/<br></br>
-<a href="https://jeremiah-portfolio.net/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
+<a href="https://jeremiah-portfolio.net" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true" target="_blank"></a><br></br>
 
 
 
