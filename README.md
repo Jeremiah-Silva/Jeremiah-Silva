@@ -1,10 +1,10 @@
 ### Hello! I'm Jeremiah-Silva 👋 😀
 
 - :computer: I'm Full Stack Developer with over 1-year of hands-on web development experience;
-- :iphone: Proficiency in modern web technologies such as ReactJS, VueJS, AngularJS, HTML, CSS, JavaScript. And in procedure langage COBOL;
-- :file_folder: Experience with databases such as Mongo MySQL, MS.SQL, etc.;
+- :iphone: Proficiency in modern web technologies such as ReactJS, VueJS, AngularJS, HTML, CSS, JavaScript. And in procedure language COBOL;
+- :file_folder: Experience with databases such as Mongo, MySQL, MS.SQL, etc.;
 - :arrow_forward: Acting as a Full Stack Developer within an agile development team to find creative solutions for the challenges and improve on existing solutions;
-- :eyes: I’m looking to collaborate on projects as voluntarie to learnig more how to work with this power tool (Github);
+- :eyes: I’m looking to a job and collaborate on projects as voluntarie to learnig more how to work with this power tool (Github);
 - :link: How to reach me by LinkedIn https://linkedin.com/in/jeremiah-silva-ca9 .<br></br>
 <a href="https://linkedin.com/in/jeremiah-silva-ca9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
