@@ -1,7 +1,7 @@
 ### Hello! I'm Jeremiah-Silva 👋 😀
 
 - :computer: I'm Full Stack Developer with over 1-year of hands-on web development experience;
-- :iphone: Proficiency in modern web technologies such as ReactJS, VueJS, AngularJS, HTML, CSS, JavaScript and COBOL;
+- :iphone: Proficiency in modern web technologies such as ReactJS, VueJS, AngularJS, HTML, CSS, JavaScript. And in procedure langage COBOL;
 - :file_folder: Experience with databases such as Mongo MySQL, MS.SQL, etc.;
 - :arrow_forward: Acting as a Full Stack Developer within an agile development team to find creative solutions for the challenges and improve on existing solutions;
 - :eyes: I’m looking to collaborate on projects as voluntarie to learnig more how to work with this power tool (Github);
